@@ -9,7 +9,7 @@ This project is a **Flask-based legal AI assistant** using **Ollama's ALIENTELLI
 
 ## 📦 Installation  
 ```bash
-git clone https://github.com/yourusername/legal-ai-assistant.git  
-cd legal-ai-assistant  
-pip install -r requirements.txt  
+git clone https://github.com/mertkaplanO/legalai.git
+cd legalai 
+pip install flask, ollama
 python app.py  
